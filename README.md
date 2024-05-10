@@ -10,6 +10,10 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/NtrRaz/txtExtracto)
 - 👆 Press the deploy button.
 
+  # Deploy To Heroku
+
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/jani2345/Txt_)
+
 - Go to  [my.telegram.org](https://my.telegram.org/)
      - And get your API ID
      - And API Hashes
